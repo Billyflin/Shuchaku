@@ -5,7 +5,7 @@ Aplicación que te facilitara la vida en los tiempos actuales donde hasta los lo
 ![Image](https://github.com/Billyflin/Shuchaku/blob/master/imagen_2021-12-16_114613.png?raw=true)
 <p>&nbsp;</p>
 
-[𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼 𝘿𝙄𝙍𝙀𝘾𝙏𝘼 ✔️](https://github.com/Billyflin/Shuchaku/raw/master/Shuchaku.apk)
+[𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼 𝘿𝙄𝙍𝙀𝘾𝙏𝘼 ✔️](https://raw.githubusercontent.com/Billyflin/Shuchaku/master/Shuchaku.apk)
 
 <p>&nbsp;</p>
 
