@@ -5,7 +5,7 @@ aplicación que te facilitara la vida en los tiempos actuales donde hasta los lo
 ![Image](https://github.com/Billyflin/Shuchaku/blob/master/imagen_2021-12-16_114613.png)
 <p>&nbsp;</p>
 
-[𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼 𝘿𝙄𝙍𝙀𝘾𝙏𝘼 ✔️](https://github.com/Billyflin/Shuchaku/blob/master/Shuchaku.apk)
+[𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼 𝘿𝙄𝙍𝙀𝘾𝙏𝘼 ✔️](https://github.com/Billyflin/Shuchaku/raw/master/Shuchaku.apk)
 
 <p>&nbsp;</p>
 
@@ -20,6 +20,6 @@ Informacion:
 <p>&nbsp;</p>
 Integrantes:
   Billy Martínez
-  Pablo M
+  Pablo Martínez
 
 <p>&nbsp;</p>
