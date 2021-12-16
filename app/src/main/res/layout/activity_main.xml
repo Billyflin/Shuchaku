@@ -1,18 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+    android:background="#34495E"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
+    <ImageView android:id="@+id/imageView2"
+        android:layout_width="1080dp"
+        android:layout_height="1190dp"
+        android:rotation="261"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.686"
+        app:srcCompat="@drawable/key0_cc_20_cells_diameter_inner_4_theta_maze_f_maze_png"/>
+    <ImageView android:id="@+id/imageView4"
+        android:layout_width="347dp"
+        android:layout_height="286dp"
+        app:layout_constraintBottom_toTopOf="@+id/leer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.764"
+        app:srcCompat="@drawable/iconperks_objectofobsession"/>
+    <Button android:id="@+id/leer"
+        android:layout_width="299dp"
+        android:layout_height="85dp"
+        android:layout_marginBottom="28dp"
+        android:backgroundTint="#626567"
+        android:text="Leer"
+        android:textColor="#FDFEFE"
+        android:textSize="@android:dimen/app_icon_size"
+        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"/>
+    <Button android:id="@+id/button2"
+        android:layout_width="299dp"
+        android:layout_height="85dp"
+        android:layout_marginBottom="60dp"
+        android:backgroundTint="#626567"
+        android:text="Crear"
+        android:textColor="#FDFEFE"
+        android:textSize="@android:dimen/app_icon_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
