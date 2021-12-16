@@ -13,7 +13,7 @@ Aplicación que te facilitara la vida en los tiempos actuales donde hasta los lo
 
          -Este proyecto trata de una aplicacion que lee codigos QR mediante la camara.
 
-         -La creacion de esta app se hizo con "****************".
+         -La creacion de esta app se hizo con KOTLIN.
 
          -La creacion de esta pagina web fue por GitHub Pages y se uso Markdown.
 
