@@ -43,4 +43,4 @@ Aplicación que te facilitara la vida en los tiempos actuales donde hasta los lo
 ## Capturas de la aplicacion
 
 
-<img src="https://github.com/Billyflin/Shuchaku/blob/master/imagen_2021-12-16_123918.png" width="350">   <img src="https://github.com/Billyflin/Shuchaku/blob/master/imagen_2021-12-16_123924.png" width="350">
+<img src="https://raw.githubusercontent.com/Billyflin/Shuchaku/master/imagen_2021-12-16_123918.png" width="350">   <img src="https://github.com/Billyflin/Shuchaku/raw/master/imagen_2021-12-16_123924.png" width="350">
