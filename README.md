@@ -1,6 +1,6 @@
 # Shuchaku
 
-aplicación que te facilitara la vida en los tiempos actuales donde hasta los locales de comida te entregan la carta por medio de códigos QR
+Aplicación que te facilitara la vida en los tiempos actuales donde hasta los locales de comida te entregan la carta por medio de códigos QR
 
 ![Image](https://github.com/Billyflin/Shuchaku/blob/master/imagen_2021-12-16_114613.png)
 <p>&nbsp;</p>
@@ -9,19 +9,39 @@ aplicación que te facilitara la vida en los tiempos actuales donde hasta los lo
 
 <p>&nbsp;</p>
 
-Informacion: 
+    Informacion: 
 
--Este proyecto trata de una aplicacion que lee codigos QR mediante la camara.
+         -Este proyecto trata de una aplicacion que lee codigos QR mediante la camara.
 
--La creacion de esta app se hizo con "****************".
+         -La creacion de esta app se hizo con "****************".
 
--La creacion de esta pagina web fue por GitHub Pages y se uso Markdown.
+         -La creacion de esta pagina web fue por GitHub Pages y se uso Markdown.
 
 <p>&nbsp;</p>
 
-Integrantes:
-  Billy Martínez
+    Integrantes:
+
+        Desarrollo de app 📱🔨
+
+          Billy Martínez    ---> b.martinez10@ufromail.com
   
-  Pablo Martínez
+  
+        Diseño visual aplicacion y desarrollo pagina web 📱🔨
+
+          Pablo Martínez    ---> p.martinez10@ufromail.com
 
 <p>&nbsp;</p>
+
+### Funcionamiento🔧
+
+     Dependiendo de la opción seleccionada la aplicación es capaz de leer códigos QR y copiar 
+     el link al portapapeles mediante el uso de la cámara o generar un código QR.
+
+<p>&nbsp;</p>
+
+
+## Capturas de la aplicacion
+
+
+<img src="https://github.com/Billyflin/Shuchaku/blob/master/imagen_2021-12-16_123918.png" width="350">   <img src="https://github.com/Billyflin/Shuchaku/blob/master/imagen_2021-12-16_123924.png" width="350">
+
