@@ -18,8 +18,10 @@ Informacion:
 -La creacion de esta pagina web fue por GitHub Pages y se uso Markdown.
 
 <p>&nbsp;</p>
+
 Integrantes:
   Billy Martínez
+  
   Pablo Martínez
 
 <p>&nbsp;</p>
