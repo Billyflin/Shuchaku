@@ -8,6 +8,7 @@ aplicación que te facilitara la vida en los tiempos actuales donde hasta los lo
 [𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼 𝘿𝙄𝙍𝙀𝘾𝙏𝘼 ✔️](***********************)
 
 <p>&nbsp;</p>
+
 Informacion: 
 
 -Este proyecto trata de una aplicacion que lee codigos QR mediante la camara.
@@ -15,4 +16,10 @@ Informacion:
 -La creacion de esta app se hizo con "****************".
 
 -La creacion de esta pagina web fue por GitHub Pages y se uso Markdown.
+
+<p>&nbsp;</p>
+Integrantes:
+  Billy Martínez
+  Pablo M
+
 <p>&nbsp;</p>
